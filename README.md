@@ -16,4 +16,4 @@ Please make sure that Perl is installed on your system. We used Strawberry Perl 
 
 ## References
 
-SCHMID 2019 = SCHMID, Helmut 2019: „Deep Learning-Based Morphological Taggers and Lemmatizers for Annotating Historical Texts“, in: Proceedings of the 3rd International Conference on Digital Access to Textual Cultural Heritage, hg. von Association for Computing Machinery, New York: Association for Computing Machinery, S. 133–137, online unter: https://www.cis.uni-muenchen.de/~schmid/papers/Datech2019.pdf.
+SCHMID 2019 = SCHMID, Helmut 2019: „Deep Learning-Based Morphological Taggers and Lemmatizers for Annotating Historical Texts“, in: Proceedings of the 3rd International Conference on Digital Access to Textual Cultural Heritage, hg. von Association for Computing Machinery, New York: Association for Computing Machinery, S. 133–137, online via: https://www.cis.uni-muenchen.de/~schmid/papers/Datech2019.pdf.
