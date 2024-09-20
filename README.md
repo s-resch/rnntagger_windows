@@ -6,7 +6,7 @@ Here you find batch scripts that can be used with RNN-Tagger developed by Helmut
 
 Then you can execute the batch file using cmd (or Power Shell) in `cmd` folder: `xxx.bat Text.txt` where `Text.txt` represents the text file you want to be analyzed.
 
-FAt the moment, we offer only Old Italian. Further batch files for additional languages will be made available soon.
+At the moment, we offer only Old Italian. Further batch files for additional languages will be made available soon.
 
 ## Prerequisities
 
